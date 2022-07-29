@@ -14,8 +14,8 @@ const SocialNetworks = () => {
   {socialNetworks.map((network) => (
     <a href="#" className="social-btn" id={network.name} key={network.name}>
       {network.icon}
-    </a>
-  ))}  
+  </a>
+  ))}
   </section>
   );
 };
