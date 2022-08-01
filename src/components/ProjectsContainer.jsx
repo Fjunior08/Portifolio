@@ -7,7 +7,7 @@ const ProjectsContainer = () => {
         porro voluptate? Pariatur et iste vel accusamus velit laudantium? Veniam doloribus repellat sequi
         maxime deserunt.
       </p>
-      <a href="" className="btn">
+      <a href="https://github.com/Fjunior08?tab=repositories" target="blank" className="btn">
         Ver Projetos
       </a>
     </section>
