@@ -4,7 +4,7 @@ import '../styles/components/socialnetworks.sass';
 
 const socialNetworks = [
   { name: "linkedin",   icon:  <a href="https://www.linkedin.com/in/francisco-j%C3%BAnior-4b4a02119/" target="_blank"> <FaLinkedinIn /></a> },
-  { name: "github",     icon:  <a href="https://github.com/Fjunior08?tab=repositories" target="_blank"> <FaGithub /></a> },
+  { name: "github",     icon:  <a href="https://github.com/Fjunior08" target="_blank"> <FaGithub /></a> },
   { name: "instagram",  icon:  <a href="mailto:juniorlina872@gmail.com" target="_blank"> <FaEnvelope /> </a> },
 ];
 
