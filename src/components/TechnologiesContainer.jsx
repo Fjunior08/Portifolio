@@ -11,9 +11,9 @@ import {
 import '../styles/components/technologiescontainer.sass';
 
 const technologies = [
-  { id: "html",  name: "HTML5",      desc: "Estrutura de layouts, principais tags, HTML semântico, formulários.",         icon: <DiHtml5 /> },
-  { id: "css3",  name: "CSS3",       desc: "Estilização de layout, animação, responsiveis",                               icon: <DiCss3 /> },
-  { id: "js",    name: "JavaScript", desc: "Manipulação do DOM, tipos de dados, funções, array, objetos, eventos",        icon: <DiJsBadge /> },
+  { id: "html",  name: "HTML5",      desc: "Estrutura de layouts, principais tags, HTML semântico.      ",        icon: <DiHtml5 /> },
+  { id: "css3",  name: "CSS3",       desc: "Estilização de layout, animação, responsivo, FlexBox, Grid.",        icon: <DiCss3 /> },
+  { id: "js",    name: "JavaScript", desc: "Manipulação do DOM, tipos de dados, funções, array, objetos, eventos      ",        icon: <DiJsBadge /> },
   { id: "node",  name: "Node.js",    desc: "Domínio, aplicação, APIs, CRUD, funções, array, objetos, express, arquitetura MVC", icon: <DiNodejsSmall /> },
   { id: "mysql", name: "MySQL",      desc: "Estruturas de dados, views, procedures, funções, T-SQL",                     icon: <DiMysql /> },
   { id: "react", name: "React",      desc: "UseState, props, funções, array, objetos, eventos, hooks",                    icon: <DiReact /> },
